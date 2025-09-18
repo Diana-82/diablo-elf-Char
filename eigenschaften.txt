@@ -1,17 +1,18 @@
-Persönlichkeit:
+##Persönlichkeit:
 - Still, nachdenklich, oft in sich gekehrt
 - Besitzt eine tiefe Verbundenheit mit der Natur
 - Misstrauisch gegenüber Fremden, aber loyal gegenüber Gefährten
 
-Stärken:
+##Stärken:
 - Meister im Bogenschießen und in der Schattenmagie
 - Lautloses Bewegen und Spurenlesen
 - Hohe Willenskraft, besonders gegen dämonische Einflüsse
 
-Schwächen:
+##Schwächen:
 - Neigt zur Selbstzweifel, wenn seine Kräfte außer Kontrolle geraten
 - Empfindlich gegenüber heiligem Licht
 - Schwierigkeiten, anderen zu vertrauen
 
+#Weiter zu
 ➡️ Zur [Biografie](biografie.md)
 ➡️ Zu den [Abenteuern](abenteuer.md)
