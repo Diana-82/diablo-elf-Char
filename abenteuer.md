@@ -19,3 +19,7 @@ Elendir musste ihn mit eigener Hand richten – ein Ereignis, das ihn bis heute 
 ## 5. Die Reise nach Kurast
 Auf der Suche nach Heilung für seine zerrissene Seele reist er nach Kurast.  
 Dort hofft er, in den Ruinen der Zakarum Hinweise auf ein Gleichgewicht zwischen Licht und Schatten zu finden.
+# Abenteuer von Elendir
+
+⬅️ Zurück zur [Biografie](biografie.md)  
+➡️ Schau dir auch [Eigenschaften](eigenschaften.txt) an
