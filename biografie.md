@@ -9,7 +9,6 @@ Schon früh zeigte er eine ungewöhnliche Verbindung zur Magie der Natur und zur
 
 Als Dämonenhorden in die Grenzlande einfielen, verließ Elendir seine Heimat, um nicht nur sein Volk, sondern auch das Gleichgewicht zwischen Licht und Schatten zu bewahren.  
 Er glaubt, dass das Schicksal ihn dazu bestimmt hat, eine Brücke zwischen der sterbenden Natur und der chaotischen Welt der Menschen zu schlagen.
-# Biografie
 
 ➡️ Weiter zu [Eigenschaften](eigenschaften.txt)  
 ➡️ Lies mehr über [Abenteuer](abenteuer.md)
